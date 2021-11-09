@@ -3,13 +3,12 @@ import MianRepeat from "./MianRepeat";
 
 function App() {
   return (
-    <div >
+    <div>
       {/* The First Component with Function Handlers */}
-       <MianRepeat />
+      <MianRepeat />
 
-
-      {/* The Second Component wit the Arrow Function */}
-       <Main />
+      {/* The Second Component with the Arrow Function */}
+      <Main />
     </div>
   );
 }
